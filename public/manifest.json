@@ -1,0 +1,21 @@
+{
+  "short_name": "stopwatch",
+  "name": "Stopwatch",
+  "icons": [
+    {
+      "src": "clock_s.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "clock_1.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#F4BD42",
+  "background_color": "#ffffff",
+  "scope":"/"
+}
